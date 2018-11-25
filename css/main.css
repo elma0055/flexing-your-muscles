@@ -14,7 +14,7 @@ body {
 
 img {
   display: block;
-  width: 20%
+  width: 15%;
 }
 
 .footer {
@@ -46,7 +46,9 @@ img {
   color: #003442;
 }
 
-.links {padding: 0 1rem}
+.links {
+  padding: 0 1rem
+}
 
 .social {
   padding: 0 1rem;
